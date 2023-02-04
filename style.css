@@ -1,0 +1,60 @@
+body {
+	background-color: #e5e5e5;
+	padding: 54px 40px 24px 40px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper {
+	display: flex;
+	background: #ffffff;
+	flex-direction: row-reverse;
+	width: 1200px;
+	border-radius: 0px;
+	margin: auto;
+
+}
+
+.main-content {
+	padding: 88px;
+}
+
+.frontsize {
+	font-size: 18px;
+}
+
+.sizetext {
+	font-size: 45px;
+}
+
+.project{
+	padding-top: 44px;
+}
+
+.text {
+	width: 525px;
+}
+
+.works{
+	padding-top: 41px;
+}
+
+.profitpage {
+	background: #E0EBFE;
+	border-radius: 0px;
+	padding-top: 40px;
+}
+
+.contact {
+	padding-top: 51px;
+	padding-left: 40px;
+	padding-bottom: 47px;
+}
+
+.tech-skills {
+	padding-left: 40px;
+	padding-bottom: 44px;
+}
+
+.softskills {
+	padding-left: 40px;
+}
